@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Low Jun Hong</h1>
-<h3 align="center">A student of Bachelor in Software Engineering</h3>
+<h3 align="center">A student pursuing Bachelor's degree in Software Engineering</h3>
 
 - 🌱 I’m currently learning **C#, HTML, CSS, Javascript & SQL**
 
